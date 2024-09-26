@@ -1,5 +1,7 @@
 import database from "infra/database.js";
 
+// teste
+
 beforeAll(cleanDatabase);
 
 async function cleanDatabase() {
